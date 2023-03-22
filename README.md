@@ -35,6 +35,10 @@ outcome_comparisons.ipynb - creates pie charts that compare the live/other outco
 
 national_totals.ipynb - compare nation wide shelter intake and outake for each year
 
+<img width="1195" alt="Screen Shot 2023-03-22 at 12 56 03 AM" src="https://user-images.githubusercontent.com/110379358/226815127-3b1d5432-6190-4a1c-b3a6-9c479191bf8b.png">
+<img width="1085" alt="Screen Shot 2023-03-22 at 12 55 47 AM" src="https://user-images.githubusercontent.com/110379358/226815250-a76335eb-af9e-4978-a462-75f56a9f02d6.png">
+
+
 symmary_df.ipynb - create a map of adoption rate per state
 
 Regional_Data.ipynb - comparison of intake/outake between regions
